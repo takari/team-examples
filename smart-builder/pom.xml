@@ -1,0 +1,7 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>io.takari.team</groupId>
+  <artifactId>project-with-smartbuilder</artifactId>
+  <version>0.1.0-SNAPSHOT</version>
+</project>
+
